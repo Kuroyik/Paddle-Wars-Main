@@ -1,4 +1,3 @@
-# Paddle-Wars-Main
 <!DOCTYPE html>
 <html lang="en">
 <head>
